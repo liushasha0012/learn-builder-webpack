@@ -7,7 +7,7 @@ cache:
   directories:
     - node_modules
 
-node_js: stable # 设置相应的node版本
+node_js: 12.18.1 # 设置相应的node版本
 
 install:
   - npm install -D,

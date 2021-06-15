@@ -1,8 +1,7 @@
 {
-  "name": "webpack_study",
+  "name": "learn-builder-webpack",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config ./config/webpack.prod.js",
